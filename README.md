@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://www.codewars.com/users/kbd-overlord/badges/large
+
 <!--
 **kbd-overlord/kbd-overlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
